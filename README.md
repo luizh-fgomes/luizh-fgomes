@@ -28,10 +28,8 @@ I enjoy working with:
 ---
 
 
-## 🚀 Philosophy
+## 📚 Philosophy
 
-> _"Technology is not only about writing code — it's about creating solutions, learning continuously, and making an impact."_
+> _"Technology changes every day,  
+> but those who never stop learning will always be the ones building the future."_
 
----
-
-⭐ Always open to learning, collaborations, and new experiences
