@@ -1,43 +1,83 @@
 # Olá 👋, eu sou Luiz Henrique
 
-🚀 **Estudante de Análise e Desenvolvimento de Sistemas (FIAP) | Focado em Banco de Dados**
-🇧🇷 Brasil
+🚀 **Estudante de Análise e Desenvolvimento de Sistemas (FIAP) | Em formação em Análise de Dados 🇧🇷**
 
-Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, onde venho desenvolvendo conhecimentos em modelagem de dados, SQL e desenvolvimento de soluções para bancos de dados.
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, direcionando minha formação para a área de **Dados**.
 
-Tenho grande interesse pela área de **Banco de Dados** e estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e aplicar boas práticas em projetos. Gosto de resolver problemas, enfrentar desafios e evoluir constantemente, tanto no aspecto técnico quanto profissional.
+Venho desenvolvendo conhecimentos em **SQL, MySQL, modelagem de dados, Python, Power BI e Excel**, por meio da graduação, cursos complementares e projetos práticos.
 
-Tenho interesse em atuar com:
+Tenho interesse em transformar dados em informações úteis para apoiar análises e tomadas de decisão, sempre buscando evoluir tecnicamente e aplicar meus conhecimentos em projetos reais.
 
-* 🗄️ Banco de Dados
-* 📊 Modelagem de Dados (MER e Modelo Relacional)
-* ⚡ SQL (DDL, DML e Consultas)
-* 🔍 Análise e Manipulação de Dados
-* ☁️ Tecnologias relacionadas a Banco de Dados e Cloud
 
----
+## 📊 Áreas de interesse
 
-## 🧠 Sobre Mim
+- 📈 Análise de Dados
+- 🗄️ Banco de Dados
+- 📊 Visualização de Dados
+- 🔎 Análise e Manipulação de Dados
+- 🧩 Modelagem de Dados
+- ⚡ SQL e Consultas
+- ☁️ Tecnologias relacionadas a Dados e Cloud
 
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-* 💼 Em busca de uma oportunidade de estágio na área de Banco de Dados
-* 📚 Estudando SQL, modelagem de dados e administração de bancos de dados
-* 🚀 Apaixonado por tecnologia, dados e inovação
-* 📈 Sempre buscando aprimorar minhas habilidades por meio de cursos e projetos práticos
-* 🤝 Aberto a novas oportunidades, desafios e colaborações
 
----
+## 🛠️ Tecnologias e conhecimentos
+
+### 📊 Dados e BI
+- Microsoft Power BI
+- Excel
+- Análise de Dados
+
+### 🗄️ Banco de Dados
+- SQL
+- MySQL
+- Modelagem de Dados
+- MER
+- Modelo Relacional
+
+### 🐍 Programação
+- Python
+
 
 ## 📂 Neste GitHub você encontrará
 
-* 📌 Projetos de Banco de Dados
-* 🗄️ Modelos Entidade-Relacionamento (MER)
-* 📑 Modelos Lógicos e Físicos
-* ⚡ Scripts SQL (DDL, DML e Consultas)
-* 🔍 Exercícios e estudos de SQL
-* 
----
+- 📊 Projetos de Análise de Dados
+- 📈 Projetos e dashboards em Power BI
+- 🗄️ Projetos de Banco de Dados
+- 📐 Modelos Entidade-Relacionamento (MER)
+- 📄 Modelos Lógicos e Físicos
+- ⚡ Scripts SQL (DDL, DML e consultas)
+- 🐍 Projetos e estudos em Python
+- 🔎 Exercícios e estudos relacionados a Dados e SQL
 
-## 📚 Filosofia
 
-> *"Os dados são a base das grandes decisões. Aprender continuamente é o caminho para transformar informação em soluções e construir um futuro através da tecnologia."*
+## 🎓 Formação
+
+**FIAP — Análise e Desenvolvimento de Sistemas**
+
+📅 2025 – 2027
+
+Atualmente desenvolvendo conhecimentos em desenvolvimento de software, bancos de dados, programação, modelagem de dados e análise de dados.
+
+
+## 📚 Atualmente estudando
+
+- SQL e MySQL
+- Python
+- Power BI
+- Análise de Dados
+- Modelagem de Dados
+- Visualização de Dados
+
+
+## 🎯 Objetivo
+
+Busco minha **primeira oportunidade de estágio na área de Dados**, onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir para a solução de problemas por meio dos dados.
+
+Meu objetivo é continuar evoluindo profissionalmente em **Análise de Dados**, ampliando meus conhecimentos em SQL, Python, Power BI e ferramentas relacionadas ao ecossistema de dados.
+
+
+## 📫 Contato
+
+💼 [LinkedIn](https://www.linkedin.com/in/luiz-henriquefg/)
+
+📧 Email: luizhenriquefgomes@gmail.com
